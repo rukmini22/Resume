@@ -1,0 +1,39 @@
+{
+  "Profile":{
+    "name":"rukku",
+    "image":"image/profile.png",
+    "clgname":"Qis",
+    "number":"8464088422",
+    "mail":"rukku@gmail.com",
+    "career": "to have my career in progree in thatCareer objective or resume objective acts as the pitch of your resume. It mentions the goal and objective of your career. Even though it is not a strict requirement to include a resume objective in your resume, a well-written objective can help you catch the attention of the recruiter.</p>"
+  },
+    "Education":[
+    {
+      "degree":"B.tech",
+      "college":"Qis",
+      "branch":"cse",
+      "marks":"80%",
+      "endDate":"06/06/2020"
+    },
+    {
+      "degree":"Inter",
+      "college":"Nri",
+      "branch":"mpc",
+      "marks":"77%",
+      "endDate":"20/04/2016"
+    },
+    {
+      "degree":"school",
+      "college":"Uppal model school",
+      "branch":"Tm",
+      "marks":"68%",
+      "endDate":"08/03/2014"
+    }
+  ],
+    "skils":{
+      "Os":"Windows 7,windows 8.1, xp ",
+      "Ps":"Html,Php,C ,Java"
+    }
+
+
+}
